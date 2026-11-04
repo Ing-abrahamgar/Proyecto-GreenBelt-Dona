@@ -1,17 +1,17 @@
-# 🥐 Optimización DMAIC en Línea de Dona Glaseada — Panadería «Pan de Vida»
+#  Optimización DMAIC en Línea de Dona Glaseada — Panadería «Pan de Vida»
 
 ![Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-green)
 ![DMAIC](https://img.shields.io/badge/Methodology-DMAIC-blue)
 ![Data Analytics](https://img.shields.io/badge/Analytics-Python%20%7C%20Excel-orange)
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 Este proyecto de certificación **Lean Six Sigma Green Belt** aborda la reducción de la variabilidad de peso y la eliminación de defectos térmicos en la línea de dona glaseada de la microempresa **Pan de Vida**. 
 
 A través de la metodología **DMAIC** (Definir, Medir, Analizar), se identificaron las causas raíz de una merma inicial del **8.0%** ($73,470 MXN/año en COPQ) y se construyeron los modelos estadísticos para estabilizar el proceso y recuperar margen operativo.
 
 ---
 
-## 📊 Principales Hallazgos y Métricas (Línea Base)
+##  Principales Hallazgos y Métricas (Línea Base)
 
 * **Calidad y Mermas:** Tasa actual de defectos del **8.0%** (1,682 piezas defectuosas de 21,000 analizadas).
 * **Capacidad del Peso de Masa (CTQ 1):** $C_p = 0.90$, $C_{pk} = 0.70$ (Proceso no capaz, 5.4% de piezas fuera de especificación $70 \pm 5\text{ g}$).
@@ -21,14 +21,14 @@ A través de la metodología **DMAIC** (Definir, Medir, Analizar), se identifica
 
 ---
 
-## 🛠️ Herramientas Aplicadas
+##  Herramientas Aplicadas
 - **Definir:** Project Charter SMART, SIPOC, Árbol VOC-CTQ, Análisis Financiero COPQ.
 - **Medir:** Plan de Recolección de Datos, Gage R&R ANOVA (%GRR = 10.7% proceso / 14.5% tolerancia), MSA por Atributos (Kappa = 0.86), Pareto de Defectos, Cartas de Control ($\bar{X}-R$, $I-MR$, $p$), VSM (Value Stream Map) y Yamazumi Chart.
 - **Analizar:** Diagrama de Ishikawa (6M), 5 Porqués, ANOVA de un factor, Prueba de Levene, Regresión Cuadrática y FMEA/AMEF preliminar.
 
 ---
 
-## 🎯 Metas SMART del Proyecto
+##  Metas SMART del Proyecto
 1. Reducir la tasa de defectos de **8.0% a $\le$ 4.0%**.
 2. Elevar el $C_{pk}$ del peso de masa de **0.70 a $\ge$ 1.33**.
 3. Incrementar el OEE de la freidora de **72.6% a $\ge$ 80%**.
