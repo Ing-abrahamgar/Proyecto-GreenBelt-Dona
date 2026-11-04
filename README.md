@@ -1,8 +1,8 @@
 # 🥐 Optimización DMAIC en Línea de Dona Glaseada — Panadería «Pan de Vida»
 
-![Six Sigma](https://img.shields.org/badge/Lean%20Six%20Sigma-Green%20Belt-green)
-![DMAIC](https://img.shields.org/badge/Methodology-DMAIC-blue)
-![Data Analytics](https://img.shields.org/badge/Analytics-Python%20%7C%20Excel-orange)
+![Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-green)
+![DMAIC](https://img.shields.io/badge/Methodology-DMAIC-blue)
+![Data Analytics](https://img.shields.io/badge/Analytics-Python%20%7C%20Excel-orange)
 
 ## 📌 Descripción del Proyecto
 Este proyecto de certificación **Lean Six Sigma Green Belt** aborda la reducción de la variabilidad de peso y la eliminación de defectos térmicos en la línea de dona glaseada de la microempresa **Pan de Vida**. 
