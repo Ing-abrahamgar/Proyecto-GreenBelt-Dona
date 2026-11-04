@@ -37,8 +37,8 @@ A través de la metodología **DMAIC** (Definir, Medir, Analizar), se identifica
 ---
 
 ## 📁 Archivos del Repositorio
-* `Proyecto_GreenBelt_Dona_Entrega1_Corregido.docx`: Reporte técnico completo (Fases Definir, Medir y Analizar).
-* `Datos_Proyecto_Dona_GreenBelt_Corregido.xlsx`: Libro de datos con fórmulas vivas, análisis de capacidad, MSA, OEE y VSM.
+* `Proyecto_GreenBelt_Dona.docx`: Reporte técnico completo (Fases Definir, Medir y Analizar).
+* `Datos_Proyecto_Dona_GreenBelt.xlsx`: Libro de datos con fórmulas vivas, análisis de capacidad, MSA, OEE y VSM.
 
 ---
 **Autor:** Abraham García  
